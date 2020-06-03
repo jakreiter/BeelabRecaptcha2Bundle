@@ -20,4 +20,4 @@ License
 
 This bundle is released under the LGPL license. See the [complete license text](LICENSE).
 
-Adds the ability to use a proxy to communicate the web server with google.
+Adds the ability to use a proxy to communicate the web server with Google.
