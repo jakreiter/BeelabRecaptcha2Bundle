@@ -1,7 +1,7 @@
 {
-    "name": "beelab/recaptcha2-bundle",
+    "name": "jakreiter/recaptcha2-bundle-proxyable",
     "type": "symfony-bundle",
-    "description": "Provide Google Recaptch2 form type",
+    "description": "Provide Google Recaptch2 form type with ability to use proxy to comunicate with Google server",
     "keywords": [
         "Symfony",
         "Form",
