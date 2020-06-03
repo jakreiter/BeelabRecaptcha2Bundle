@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "google/recaptcha": "^1.2",
+        "jakreiter/recaptchaproxyable": "^1.2",
         "symfony/config": "^3.4 || ^4.4 || ^5.0",
         "symfony/dependency-injection": "^3.4 || ^4.4 || ^5.0",
         "symfony/form": "^3.4 || ^4.4 || ^5.0",
