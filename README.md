@@ -15,6 +15,10 @@ Documentation
 
 [Read the documentation](docs/index.md)
 
+Proxy works only with
+```
+request_method: curl_post
+```
 License
 -------
 
