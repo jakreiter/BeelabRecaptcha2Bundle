@@ -10,6 +10,12 @@ This bundle integrates ReCaptcha (version 2) in Symfony.
 
 [Read the documentation](docs/index.md)
 
+
+Proxy works only with
+```
+request_method: curl_post
+```
+
 ## License
 
 This bundle is released under the LGPL license. See the [complete license text](LICENSE).

@@ -1,7 +1,7 @@
 {
-    "name": "beelab/recaptcha2-bundle",
+    "name": "jakreiter/recaptcha2-bundle-proxyable",
     "type": "symfony-bundle",
-    "description": "Provide Google Recaptcha2 form type",
+    "description": "Provide Google Recaptch2 form type with ability to use proxy to comunicate with Google server",
     "keywords": [
         "Symfony",
         "Form",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "google/recaptcha": "^1.3",
+        "jakreiter/recaptchaproxyable": "*",
         "symfony/config": "^6.0 || ^7.0",
         "symfony/dependency-injection": "^6.0 || ^7.0",
         "symfony/form": "^6.0 || ^7.0",
